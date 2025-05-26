@@ -1,0 +1,3 @@
+This firmware binary is licensed for use only with glance-led authorized products. Redistribution, reverse engineering, or modification is prohibited without explicit written permission from glance-led (operated by Passive Income Consulting, LLC). All rights reserved.
+
+You can reach out admin@glance-led.com for further inquaries. 
