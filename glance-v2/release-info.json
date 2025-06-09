@@ -1,5 +1,5 @@
 {
-  "latest_version": "v3.0.1",
+  "latest_version": "3.0.2",
   "firmware_url": "https://github.com/TamariskLabs/glance-releases/blob/main/glance-v2/v3.0/glance-v2_v3.0.1.bin",
   "release_date": "2025-05-25",
   "mandatory": true
