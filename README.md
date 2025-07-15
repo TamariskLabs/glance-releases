@@ -1,5 +1,5 @@
-# glance-releases
-firmware releases for the glance led ticker
+# Glance LED Firmware Release
+Firmware Releases for Glance LED OTA Updates
 
 ## Repo File Structure
 ### Project_Type : 
