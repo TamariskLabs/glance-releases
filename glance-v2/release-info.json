@@ -1,6 +1,8 @@
 {
-  "latest_version": "3.0.2",
-  "firmware_url": "https://raw.githubusercontent.com/TamariskLabs/glance-releases/main/glance-v2/v3.0/glance-v2_v3.0.1.bin",
-  "release_date": "2025-05-25",
-  "mandatory": true
+  "version": "3.0.2",
+  "url_to_firmware_binary": "https://raw.githubusercontent.com/TamariskLabs/glance-releases/main/glance-v2/v3.0/glance-v2_v3.0.1.bin",
+  "build_date_utc": "2025-05-25",
+  "build_time_utc": "15:31:22",
+  "git_commit_hash": 
+  "is_development_version": true
 }
